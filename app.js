@@ -1,4 +1,4 @@
- // Nav 
+ // NavBar
  let CE = document.getElementById("CE"),
      C = document.getElementById("C"),
      del = document.getElementById("Del");
@@ -71,7 +71,6 @@
 
      let btnOp = event.target.innerText;
 
-     //console.log(btnOp);
 
      switch (btnOp) {
 
