@@ -120,10 +120,10 @@
  }
 
 
- for (let i = 0; i < numberArr.length; ++i) {
+ for (let i = 0; i < numberArr.length; ++i ) {
      numberArr[i].addEventListener("click", updateOutput)
  }
 
- for (let i = 0; i < operatorsArr.length; ++i) {
+ for (let i = 0; i < operatorsArr.length; ++i ) {
      operatorsArr[i].addEventListener("click", performOperation)
  }
