@@ -24,7 +24,6 @@
      three = document.getElementById("3"),
      zero = document.getElementById("0");
 
-
  // Output
  let output = document.getElementById("output");
 
